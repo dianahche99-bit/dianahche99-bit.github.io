@@ -1,3 +1,9 @@
+# Cheloti Dianah — Data & AI Portfolio
+
+Data science projects with write-ups, code, and visualizations.
+
+## Projects
+
 ### Netflix Shows — Data Wrangling
 Cleaned and prepared the Netflix Shows dataset using a full six-stage data wrangling process, resolving missing values and structuring genre/duration fields.
 [View project →](https://github.com/dianahche99-bit/Netflix-Data-Wrangling)
